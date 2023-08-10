@@ -133,6 +133,7 @@ ENV/
 env.bak/
 venv.bak/
 .env/*
+.envs/*
 !.envs/.local/
 
 # Spyder project settings
